@@ -1,2 +1,2 @@
 # windowsevents
-Slides from "An Unfortunate Series of Windows Events" talk from Infosec 716 meetup, 10/17/2019
+Slides from "An Unfortunate Series of Windows Events" talk from IntroSecCon 2021, 4/17/2021.
